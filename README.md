@@ -21,36 +21,6 @@ The robot automatically follows a black line on a white surface by analyzing sen
 - Motor driver adjusts motor direction
 - Robot follows the line continuously
 
----
-
-## 📂 Project Structure
-Line-Follower-Robot-Arduino/
-│
-
-├── Code/
-│
-│
-└── line_follower.ino
-
-
-├── Circuit/
-│ 
-│
-└── circuit_diagram.png
-
-├── Components/
-│   └── components_list.md
-│
-├── Working/
-│ 
-│
-└── working_explanation.md
-
-├── Images/
-│ 
-│
-└── robot_setup.jpg
-
 
 ---
 
