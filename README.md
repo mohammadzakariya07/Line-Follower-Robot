@@ -26,22 +26,31 @@ The robot automatically follows a black line on a white surface by analyzing sen
 ## 📂 Project Structure
 Line-Follower-Robot-Arduino/
 │
+
 ├── Code/
-│   └── line_follower.ino
 │
+│
+└── line_follower.ino
+
+
 ├── Circuit/
-│   └── circuit_diagram.png
+│ 
 │
+└── circuit_diagram.png
+
 ├── Components/
 │   └── components_list.md
 │
 ├── Working/
-│   └── working_explanation.md
+│ 
 │
+└── working_explanation.md
+
 ├── Images/
-│   └── robot_setup.jpg
+│ 
 │
-└── README.md
+└── robot_setup.jpg
+
 
 ---
 
